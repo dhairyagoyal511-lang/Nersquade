@@ -1,2 +1,0 @@
-# Nersquade
-atm.py
